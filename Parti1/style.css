@@ -1,0 +1,143 @@
+html{
+    width: 100%;
+
+}
+body{
+    margin: 0;
+}
+.menu{
+    gap: 20px;
+    margin: auto;
+    text-align: end;
+    a{
+        text-decoration: none;
+        color: white;
+    }
+}
+.beer{
+    text-align: center;
+    color: white;
+    form input{
+        width: 300px;
+    }
+}
+.nav{
+    background-color: rgb(70, 101, 127);
+}
+.first{
+    background: beige;
+}
+.beerfirst{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.beertwo{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.beertris{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.image1{
+    background: white;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    h2{
+        color: #f5a819;
+    }
+    margin-top: 20px;
+    margin: 10px;
+}
+.image2{
+    background: white;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    h2{
+        color: #f5a819;
+    }
+    margin-top: 20px;
+    margin: 10px;
+}
+.image3{
+    background: white;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    h2{
+        color: #f5a819;
+    }
+    margin-top: 20px;
+    margin: 10px;
+}
+.image4{
+    background: white;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    h2{
+        color: #f5a819;
+    }
+    margin-top: 20px;
+    margin: 10px;
+}
+.image5{
+    background: white;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    h2{
+        color: #f5a819;
+    }
+    margin-top: 20px;
+    margin: 10px;
+}
+.image6{
+    background: white;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    h2{
+        color: #f5a819;
+    }
+    margin-top: 20px;
+    margin: 10px;
+}
+.image7{
+    background: white;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    h2{
+        color: #f5a819;
+    }
+    margin-top: 20px;
+    margin: 10px;
+}
+.image8{
+    background: white;
+    width: auto;
+    height:  auto;
+    padding: 10px;
+    h2{
+        color: #f5a819;
+    }
+    margin-top: 20px;
+    margin: 10px;
+}
+.image9{
+    background: white;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    h2{
+     color: #f5a819;
+    }
+    margin-top: 20px;
+    margin: 10px;
+}
